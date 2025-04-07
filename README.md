@@ -1,5 +1,5 @@
 # Dacon_OilCondition
-[![image](https://github.com/user-attachments/assets/863c835b-ca8b-4cf4-9478-0f9a6950740f](https://dacon.io/competitions/official/236013/overview/description)
+[![image](https://github.com/user-attachments/assets/5e163998-5c48-446d-8f98-b05b8cbd5fa0)](https://dacon.io/competitions/official/236013/overview/description)
 
 Public score: 11/517(Macro F1-Score: 0.6027)  
 Private score: 15/517(Macro F1-Score: 0.5769)  
